@@ -21,7 +21,7 @@ I took data from kaggle. this dataset contains pizza sale information in year 20
 * pizza name
 
 ## Exploratory Data Analysis:
-*- Total Revenue
+- Total Revenue
 - Average Order Value
 -Total Pizzas Sold
 -Total Orders
