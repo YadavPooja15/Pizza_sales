@@ -23,16 +23,16 @@ I took data from kaggle. this dataset contains pizza sale information in year 20
 ## Exploratory Data Analysis:
 - Total Revenue
 - Average Order Value
--Total Pizzas Sold
--Total Orders
--Average Pizzas Per Order
--Daily Trend For Total Orders
--Monthly Trend For Total Orders
--Percentage Of Sales by pizza category
--Percentage Of Sales by pizza Size
--Total pizzas sold by pizza category
--Top 5 Best sellers by revenue, total quantity and total orders
--Buttom 5 best sellers by revenue, total quantity and total orders
+- Total Pizzas Sold
+- Total Orders
+- Average Pizzas Per Order
+- Daily Trend For Total Orders
+- Monthly Trend For Total Orders
+- Percentage Of Sales by pizza category
+- Percentage Of Sales by pizza Size
+- Total pizzas sold by pizza category
+- Top 5 Best sellers by revenue, total quantity and total orders
+- Buttom 5 best sellers by revenue, total quantity and total orders
 
 ## Insights:
 ### Busiest days & times:
