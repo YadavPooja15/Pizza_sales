@@ -7,22 +7,22 @@ Main objective is perform EDA on the given dataset and draw useful conclusions a
 ## Dataset:
 I took data from kaggle. this dataset contains pizza sale information in year 2015 it contains the following features.
 
-#- pizza id,
-order id,
-pizza name id,
-quantity,
-order date,
-order time,
-unit price,
-total price,
-pizza size,
-pizza category,
-pizza_ingredients,
-pizza name
+* pizza id
+* order id
+* pizza name id
+* quantity
+* order date
+* order time
+* unit price
+* total price
+* pizza size
+* pizza category
+* pizza_ingredients
+* pizza name
 
 ## Exploratory Data Analysis:
--Total Revenue
--Average Order Value
+*- Total Revenue
+- Average Order Value
 -Total Pizzas Sold
 -Total Orders
 -Average Pizzas Per Order
