@@ -7,7 +7,7 @@ Main objective is perform EDA on the given dataset and draw useful conclusions a
 ## Dataset:
 I took data from kaggle. this dataset contains pizza sale information in year 2015 it contains the following features.
 
-pizza id,
+#- pizza id,
 order id,
 pizza name id,
 quantity,
