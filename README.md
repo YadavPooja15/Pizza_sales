@@ -32,7 +32,7 @@ I took data from kaggle. this dataset contains pizza sale information in year 20
 - Percentage Of Sales by pizza Size
 - Total pizzas sold by pizza category
 - Top 5 Best sellers by revenue, total quantity and total orders
-- Buttom 5 best sellers by revenue, total quantity and total orders
+- Buttom 5 worst sellers by revenue, total quantity and total orders
 
 ## Insights:
 ### Busiest days & times:
@@ -41,16 +41,23 @@ Days-orders are highest on weekdays,friday/saturday evenings.
 monthly-there are maximum orders from month of july and january
 
 ### Sales performation:
-category-Classic Category Contributes To Maximum Sales & Total Orders.
+category
+* Classic Category Contributes To Maximum Sales & Total Orders.
 
-Size-Large Size Pizza Contributes To Maximum  Sales.
+* Size-Large Size Pizza Contributes To Maximum  Sales.
 
 ### Best Sellers:-
-Revenue- the thai chicken pizza contributes to maximum revenue.
-quantity- the classic deluxe pizza contributes to maximum total quntities.
-Total orders- the classic deluxe pizza contributes to maximum total orders.
+Revenue -
+* the thai chicken pizza contributes to maximum revenue.
+quantity -
+* the classic deluxe pizza contributes to maximum total quntities.
+Total orders -
+* the classic deluxe pizza contributes to maximum total orders.
 
 ### Worst Sellers:-
-Revenue- The Brie carre pizza contributes to maximum revenue.
-quantity- The brie carre pizza contributes to maximum total.
-Total Orders- The brie carre pizza contributes to maximum Total Orders.
+Revenue -
+* The Brie carre pizza contributes to maximum revenue.
+quantity -
+* The brie carre pizza contributes to maximum total.
+Total Orders -
+* The brie carre pizza contributes to maximum Total Orders.
