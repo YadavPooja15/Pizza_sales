@@ -1,7 +1,7 @@
 # Pizza_sales
 
 ## Objective:-
-Provided pizza sales dataset.
+In this project, I have collected from kaggle.
 Main objective is perform EDA on the given dataset and draw useful conclusions about general trends in sales.
 
 ## Dataset:
