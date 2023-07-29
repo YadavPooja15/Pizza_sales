@@ -47,17 +47,11 @@ category
 * Size-Large Size Pizza Contributes To Maximum  Sales.
 
 ### Best Sellers:-
-Revenue -
-* the thai chicken pizza contributes to maximum revenue.
-quantity -
-* the classic deluxe pizza contributes to maximum total quntities.
-Total orders -
-* the classic deluxe pizza contributes to maximum total orders.
+* Revenue -the thai chicken pizza contributes to maximum revenue.
+* quantity - the classic deluxe pizza contributes to maximum total quntities.
+* Total orders - the classic deluxe pizza contributes to maximum total orders.
 
 ### Worst Sellers:-
-Revenue -
-* The Brie carre pizza contributes to maximum revenue.
-quantity -
-* The brie carre pizza contributes to maximum total.
-Total Orders -
-* The brie carre pizza contributes to maximum Total Orders.
+* Revenue - The Brie carre pizza contributes to maximum revenue.
+* quantity - The brie carre pizza contributes to maximum total.
+* Total Orders - The brie carre pizza contributes to maximum Total Orders.
